@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands slavery, or Barbados merchandize; represented in a petition to the high court of Parliament, by Marcellus Rivers and Oxenbridge Foyle gentlemen, on behalf of themselves and three-score and ten more free-born Englishmen sold (uncondemned) into slavery: together with letters written to some honourable members of Parliament.</title>
+            <author>Rivers, Marcellus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74697</idno>
+            <idno type="STC">Wing R1553</idno>
+            <idno type="STC">Thomason E1833_3</idno>
+            <idno type="STC">ESTC R209821</idno>
+            <idno type="EEBO-CITATION">99868677</idno>
+            <idno type="PROQUEST">99868677</idno>
+            <idno type="VID">170436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74697)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170436)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 228:E1833[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands slavery, or Barbados merchandize; represented in a petition to the high court of Parliament, by Marcellus Rivers and Oxenbridge Foyle gentlemen, on behalf of themselves and three-score and ten more free-born Englishmen sold (uncondemned) into slavery: together with letters written to some honourable members of Parliament.</title>
+                  <author>Rivers, Marcellus.</author>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed in the eleventh year of Englands liberty.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill."; "April 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Slavery --  Early works to 1800.</term>
+               <term>Detention of persons --  Barbados --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:170436:1" rendition="simple:additions"/>
+ENGLANDS SLAVERY, OR BARBADOS MERCHANDIZE;</p>
+            <p>Repreſented In a Petition to the High and Honourable Court of Parliament, by <hi>Marcellus Ri<g ref="char:EOLhyphen"/>vers</hi> and <hi>Oxenbridge Foyle</hi> Gentlemen, on the behalf of themſelves and three<g ref="char:EOLhyphen"/>ſcore and ten more Free-born <hi>Engliſh-men</hi> ſold (uncondemned) into ſlavery: Together with Letters written to ſome Honou<g ref="char:EOLhyphen"/>rable Members of Parliament.</p>
+            <q>
+               <bibl>Exodus 26.1. 21.16.</bibl>
+               <p>
+                  <hi>And, God ſpake all theſe words, ſaying, He that ſtealeth a man and ſelleth him, Or if he be found in his hand, He shall ſurely be put to death.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Eleventh year of <hi>Englands</hi> Liberty. 1659.</p>
+            <pb facs="tcp:170436:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="3" facs="tcp:170436:2"/>
+            <head>To the Honourable the Knights, Citizens, and Burgeſſes aſſembled in Parliament, the Repreſentative of the Free-born People of <hi>England: The humble Petition of</hi> Marcellus Rivers, <hi>and</hi> Oxenbridge Foyle <hi>Gentlemen, aſwell on behalf of themſelves, as of threeſcore and ten more, Free-born People of this Na<g ref="char:EOLhyphen"/>tion, now in ſlavery.</hi>
+            </head>
+            <opener>Humbly sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your diſtreſſed Petitioners, and the others became priſoners at <hi>Ex<g ref="char:EOLhyphen"/>ceter</hi> and <hi>Ilcheſter</hi> in the Weſt, upon pretence of the <hi>Salisbury Riſing,</hi> in the end of the year 1654. although many of them never ſaw <hi>Salisbury,</hi> or bore arms in their lives, and your Petitioners and divers of the others were pickt up, as they travelled upon their lawfull occaſions. Afterwards upon an Indictment preferred againſt your Petitio<g ref="char:EOLhyphen"/>ner <hi>Rivers, Ignoramus</hi> was found, your Petitio<g ref="char:EOLhyphen"/>ner <hi>Foyle</hi> never being indicted, and all the reſt,
+<pb n="4" facs="tcp:170436:3"/>
+were either quitted by the Jury of life and death, or never ſo much as tryed or examined; yet your Petitioners and the others, were all kept priſoners by the ſpace of one whole year, and then on a ſudden (without the leaſt prepa<g ref="char:EOLhyphen"/>ration) ſnatcht out of their priſons (the great<g ref="char:EOLhyphen"/>eſt number by the command and pleaſure of the then high Sheriff <hi>Copleſton,</hi> and others in power in the County of <hi>Devon,</hi> and driven through the ſtreets of the City of <hi>Exon</hi> (which is witneſſe to this truth) by a guard of horſe and foot, none being ſuffered to take leave of them, and ſo hurried to <hi>Plymouth,</hi> aboard the ſhip, <hi>Iohn of London,</hi> Captain <hi>Iohn Cole</hi> Maſter, where after they had lain on ſhip-board four<g ref="char:EOLhyphen"/>teen dayes, the Captain hoiſed ſail, and at the end of five weeks, and four dayes more, ancho<g ref="char:EOLhyphen"/>red at the <hi>Iſle Barbados,</hi> in the Weſt Indies, be<g ref="char:EOLhyphen"/>ing (in ſailing) four thouſand and five hun<g ref="char:EOLhyphen"/>dred miles diſtant from their native countrey, wives, children, parents, friends, and all that is near and dear unto them, the captive Petitio<g ref="char:EOLhyphen"/>ners and the others being all the way kept lockt under decks (and guards) amongſt horſes, that their ſouls through heat and ſteam, (under the Tropick) fainted in them, and never till they came to the Iſland, knew, whether they were going.</p>
+            <p>Being ſadly arrived there, on the 7. of <hi>May</hi> 1656. the Maſter of the ſhip ſold your miſera<g ref="char:EOLhyphen"/>ble Petitioners &amp; the others, the generality of
+<pb n="5" facs="tcp:170436:3"/>
+them to moſt in humane and barbarous perſons, for 1550. pound weight of Sugar apiece, (more or leſſe, according to their working faculties,) as the goods and chattels of <hi>Martin Noel,</hi> and Major <hi>Thomas Alderne</hi> of <hi>London,</hi> and Captain <hi>Henry Hatſell</hi> of <hi>Plymouth,</hi> neither ſparing the a<g ref="char:EOLhyphen"/>ged of threeſcore and ſixteen years old; nor Divines, nor Officers, nor Gentlemen, nor any age or condition of men, but rendred all alike in this moſt inſupportable Captivity, they now generally grinding at the Mills attending the Fornaces, or digging in this ſcorching Iſland, having nothing to feed on (notwithſtanding their hard labour,) but Potatoe Roots, nor to drink but water, with ſuch roots maſht in it, (beſides the bread and tears of their own affli<g ref="char:EOLhyphen"/>ctions) being bought and ſold ſtill from one Planter to another, or attached as horſes and beaſts for the debts of their maſters, being whipt at their whipping-poſts, as Rogues, for their maſters pleaſure, and ſleep in ſtyes worſe then hogs in <hi>England,</hi> and many other wayes made miſerable, beyond expreſſion or Chriſti<g ref="char:EOLhyphen"/>an imagination.</p>
+            <p>
+               <hi>Humbly</hi> your Petitioners do remonſtrate on behalf of themſelves and the others, their moſt deplorable (and as to <hi>English-men</hi> unparallel'd,) condition, and earneſtly beg, ſince they are not under any preten<g ref="char:EOLhyphen"/>ded conviction of Law, that this high and
+<pb n="6" facs="tcp:170436:4"/>
+honourable Court will be pleaſed to exa<g ref="char:EOLhyphen"/>mine this arbitrary power, and to queſtion by what warrant, ſo great a breach is made upon the free People of <hi>England,</hi> they ha<g ref="char:EOLhyphen"/>ving never ſeen the faces of thoſe their pre<g ref="char:EOLhyphen"/>tended owners (Merchants that deal in ſlaves and ſouls of men) nor ever hearing of their names before Maſter <hi>Cole</hi> made Affidavit in the office of <hi>Barbados,</hi> that he ſold them as their goods. But whence they derived their authority for the ſale and ſlavery of your poor Petitioners and the reſt, they are wholly ignorant to this very day.</p>
+            <p>That this high Court will be further plea<g ref="char:EOLhyphen"/>ſed, to intereſt their power for the redem<g ref="char:EOLhyphen"/>ption and reparation of your diſtreſſed Petitioners and the reſt; or if the names of your Petitioners, and number of the reſt, be ſo inconſiderable as not to be wor<g ref="char:EOLhyphen"/>thy Relief, or your tender compaſſion, yet at leaſt, that this Court will be pleaſed on behalf of themſelves, and all the Free-born people of <hi>England,</hi> by whoſe ſuffra<g ref="char:EOLhyphen"/>ges they ſit in Parliament, (any of whoſe caſes it may be next) whenever a like force ſhall be laid on them, to take courſe to curb the unlimited power under which the Petitioners and the others ſuffer, that neither you nor any of their Brethren, up<g ref="char:EOLhyphen"/>on theſe miſerable tearms, may come into
+<pb n="7" facs="tcp:170436:4"/>
+this place of torment, a thing not known a<g ref="char:EOLhyphen"/>mongſt the cruell <hi>Turks,</hi> to ſell and en<g ref="char:EOLhyphen"/>ſlave theſe of their own Countrey and Re<g ref="char:EOLhyphen"/>ligion, much leſſe the Innocent.</p>
+            <closer>
+               <hi>Theſe things being granted as they hope, their grieved ſouls shall pray,</hi> &amp;c.
+<signed>
+                  <hi>Marcellus Rivers.</hi> Oxenbridge Foyle.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:170436:5"/>
+            <head>The Copie of a Letter, written, to a Noble Perſon, in Parliament.</head>
+            <opener>
+               <salute>My moſt noble Lord;</salute>
+            </opener>
+            <p>I Beſeech your Lordſhips pardon, for this rude approach of a Slave, One of thoſe many mentioned in the Slaves Petition to the Parliament, thrown together, out of this, (ſometime free and noble) Nation of <hi>England,</hi> and obſcurely buried alive in the diſconſolate vault, the Proteſtants Purgatory, <hi>Barbados,</hi> whence I am eſcaped, I cannot ſay free, but ra<g ref="char:EOLhyphen"/>ther, as one brought over in a Coffin, out of which I may not peep, untill the protection of this Parliament unlock it, and ſay, <hi>Ariſe Free<g ref="char:EOLhyphen"/>man and walk;</hi> In the mean time, I account my ſelf, equally miſerable with my fellow ſufferers left behind, who do all unanimouſly by me cry unto your Lordſhip and to all the members of your great Aſſembly, (the Aſſertors of <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> Freedome) in the words of the Souls un<g ref="char:EOLhyphen"/>der the Altar, <hi>Quouſque Domine, quouſque?</hi> They are now become Priſoners indeed, and Slaves of hope, looking upon this great body, (made up of ſo many generous ſouls) to be the Angel of their Deliverance, and humbly beg your Lordſhip vigorouſly to proſecute the Reſtitu<g ref="char:EOLhyphen"/>tion of poor <hi>Englands</hi> freedome. They look u<g ref="char:EOLhyphen"/>pon themſelves as leaſt concerned in this great buſineſſe (though ſufficiently miſerable) being
+<pb n="9" facs="tcp:170436:5"/>
+but a poor handfull compared to <hi>Englands</hi> mul<g ref="char:EOLhyphen"/>titude: the Lot is caſt upon them to be whipt, as ('tis ſaid) other youths are, in the preſence of young Princes; That they may be ſenſible, of the ſmart due to themſelves, (and which they may expect, if they will not learn their books better,) And if our Torment will but make this Princely Aſſembly look about them, and in us, as in a looking-Glaſſe, to behold the face of their own Condition, they will certainly find, that 'tis but <hi>hodie mihi,</hi> &amp; <hi>cras Tibi,</hi> &amp; can promiſe themſelves no longer freedome from our Con<g ref="char:EOLhyphen"/>dition, then they continue members of the Peo<g ref="char:EOLhyphen"/>ples Repreſentative<hi>:</hi> For the Houſe being once diſſolv'd, they are expoſed to a poſſibility, (I may not ſay a probability) of the like violence, Parliament-protection onely makes the diffe<g ref="char:EOLhyphen"/>rence; Elſe, my Lord, for ought I know, I ought to be as free from being the goods and chattels of <hi>Martin Noel</hi> and <hi>Henry Hatſel,</hi> (for <hi>Thomas Aldern</hi> that had the thirds of us, hath al<g ref="char:EOLhyphen"/>ready, (I hear) given an account of his un<g ref="char:EOLhyphen"/>righteouſneſſe to a greater Tribunall) as any man, though he might have been once a mem<g ref="char:EOLhyphen"/>ber of Parliament; For I never made any con<g ref="char:EOLhyphen"/>tract with them, nor do I know whether there be ſuch perſons, or whether the Maſter of the ſhip uſed their names ſictitiouſly, as Lawyers do formally, <hi>Iohn Anokes</hi> and <hi>Iohn Aſtiles: My Lord</hi> I do not go about to conceal that I was ſome<g ref="char:EOLhyphen"/>time an unworthy Officer in the late <hi>Kings</hi>
+               <pb n="10" facs="tcp:170436:6"/>
+Army: But this I affirm, I was never in any mili<g ref="char:EOLhyphen"/>tary Action, ſince we were disbanded upon Ar<g ref="char:EOLhyphen"/>ticles at <hi>Truro</hi> in <hi>Cornewall</hi> in the end of the year 1644. Indeed I have had my ſhare in the ſuffe<g ref="char:EOLhyphen"/>ring part ſince, upon jealous ſuggeſtions and falſe ſurmiſes<hi>:</hi> After that disbanding, I have alſo had the benefit and protection of an Act of Oblivion from the Parliament, and further be<g ref="char:EOLhyphen"/>ing upon unjuſt pretences indicted as a Traitor at <hi>Exon</hi> in the Weſt in 1655, I was there by the grand Jury of the County of <hi>Devon,</hi> pronoun<g ref="char:EOLhyphen"/>ced Innocent, by their <hi>Ignoramus,</hi> and ſo de<g ref="char:EOLhyphen"/>clared in form of Law; And if neither the <hi>Arti<g ref="char:EOLhyphen"/>ticles</hi> of a <hi>Victorious Army,</hi> nor the Act of <hi>Oblivion</hi> of an <hi>English Parliament,</hi> nor the formality of a Tryal by a <hi>Iury,</hi> and the Declaration of Law make us Innocent, and preſerve us ftom being ſold for Slaves, whence ſhall we expect freedom. <hi>My Lord</hi> your ſpatious ſoul, can certainly never undertake a more charitable Office, then to en<g ref="char:EOLhyphen"/>deavour the Redemption of the Innocent Slaves at <hi>Barbados,</hi> and the prevention of the further ſlavery of <hi>England.</hi> (Our caſe, is but your Touchſtone, by which you may diſcover whether <hi>English,</hi> be Slaves or Freemen,) which I humbly beg you Lordſhip to be zealous in, I can only pray for your Lordſhips good ſucceſs, &amp; heartily ſubſcribe my ſelf, to be, (as far as without my pretended Owners conſent, I can promiſe)</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhipps humble and faithfull Servant.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:170436:6"/>
+            <head>A Copie of a ſecond Letter written to an<g ref="char:EOLhyphen"/>other worthy Member of Parliament.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>HAving had former Experience of your goodneſſe, and having been eaſed by your hand, upon my Letter, when I was heretofore under ſome oppreſſion (though of nothing ſo high a nature as now, being with ſome ſcores more of free-born <hi>English</hi> men, ſold into ſlavery,) That gives me the confidence, &amp; you the trouble of this ſecond Letter, though you cannot now, (as then) ſingly help me, yet in conjunction with others, of your great Aſ<g ref="char:EOLhyphen"/>ſembly, (all inclin'd for the freedome of the people) I hope you will further mine and all the others liberties, who are now <hi>Slaves</hi> at <hi>Barbados,</hi> and Petitioners at your Bar; For if this man-ſtealing trade hold good, that all they that were at the <hi>Salisbury</hi> Riſing ſhall be ſold to the <hi>Indies</hi> for Slaves, becauſe they were there; And all thoſe too, that were not at the <hi>Salisbury</hi> Riſing, ſhall be alſo ſould thither, becauſe they were not there; which is the caſe of a great number of the Petitioners who never either ſaw <hi>Salisbury,</hi> or heard of that Riſing, nor knew why they were committed to Priſon, yet found themſelves indicted for treaſon, and being thereupon quitted by the Iury of life &amp; death,
+<pb n="12" facs="tcp:170436:7"/>
+which is the caſe of <hi>Augustine Greenwood</hi> and <hi>Ni<g ref="char:EOLhyphen"/>cholas Broadgate</hi> (two of the Petitioners) to my knowledge, (whatever more of that petitioning number were ſo quitted, which I do not remem<g ref="char:EOLhyphen"/>ber) are notwithſtanding that acquitment in<g ref="char:EOLhyphen"/>ſlaved: If this be allowed, an eaſie underſtand<g ref="char:EOLhyphen"/>ing will quickly find, what muſt neceſſarily be<g ref="char:EOLhyphen"/>come, of all the (formerly free) People of <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> And theſe Merchants of men ſhelter them<g ref="char:EOLhyphen"/>ſelves, and hope to continue hidden from the puniſhment of their Iniquities, and to continue and encreaſe <hi>Englands</hi> ſlavery, by an unheard of wile, which unleſſe this brave Aſſembly of Parliament doe wiſely look into, and vigo<g ref="char:EOLhyphen"/>rouſly ſtand to their own, and the Peoples pre<g ref="char:EOLhyphen"/>ſervation; They themſelves, may chance to be cheated of lives, liberties and eſtates. And the Maior, Aldermen, and Citizens of <hi>London,</hi> by this law, (or rather lawfulneſs) will in time, not be ſpared by theſe <hi>Weſt Indian</hi> ſpirits; though they begin with Countrey Gentlemen and others, as a more private and ſilent thing: Theſe ſubtile Sophiſters, do not ſeem to be ſo impu<g ref="char:EOLhyphen"/>dent, as publickly to eſtabliſh Iniquity by a Law, for that the free People would perceive, (and at leaſt murmure at, though they might not be able to help) But theſe uſe the way of a more ſly violence, and pick up free People tra<g ref="char:EOLhyphen"/>velling upon their occaſions, and take others out of their houſes upon pretences of publick Iuſtice, and ſo do piouſly ſhelter their own
+<pb n="13" facs="tcp:170436:7"/>
+private and profitable malice, of the former number. I believe the greateſt part, (if not all) of the Petitioners were, (amongſt whom, is not any one condemned perſon) but that's no mat<g ref="char:EOLhyphen"/>ter, they were as proper men as thoſe taken in Arms at <hi>South-moulton,</hi> and ſome of them of bet<g ref="char:EOLhyphen"/>ter trades, and ſo would prove more profitable Commodities, and yield more Sugar, then thoſe Gentlemen, that could not work ſo luſti<g ref="char:EOLhyphen"/>ly) But I'le inſtance but in one taken out of his houſe, (though I could name more) there was one Maſter <hi>Diamond,</hi> a <hi>Devonshire</hi> Gentle<g ref="char:EOLhyphen"/>man, (as proper as ancient) being at his ſale, threeſcore and ſixteen years of age, he was ta<g ref="char:EOLhyphen"/>ken up at <hi>Tiverton,</hi> (where he dwelt) and the greateſt offence, that they accuſed him guilty of, (for ought I could ever hear) was, that when Sir <hi>Ioſeph Waggſtaffe,</hi> and the party, came through that town, and the poor old Gentle<g ref="char:EOLhyphen"/>man, wondering to ſee, ſo unexpectedly, ſo ma<g ref="char:EOLhyphen"/>ny gallant men, travelling together, askt who they were, and 'twas anſwered, <hi>Cavaliers.</hi> Marry, ſaid he, (as they pretend) they are very brave Gentlemen, were I, as young as I have been, I would goe along with them, whither he ſaid ſo or no, God knows, I know not, but that was all they had to alledge againſt him, which they ne<g ref="char:EOLhyphen"/>ver went about to prove, though he were kept priſoner a whole year, moſt of the time in the inner priſon, of the common Goal, amongſt the felons and murderers, from which the high
+<pb n="14" facs="tcp:170436:8"/>
+Goal of <hi>Exon,</hi> is never free, and the reſt of the time, in a Room in ſtraw, amongſt three or fourſcore Priſoners more; and he was ſo far from being indicted, that he was never, (I am confident) ſo much as examined by a Iuſtice of Peace; and yet was this good old Gentle<g ref="char:EOLhyphen"/>man raviſht away with the reſt of us, from the boſome of the wife of his youth, and from the youthfull, (but now unhappy) Children of their aged Parents, and notwithſtanding his age and Innocencie (for it might have been chari<g ref="char:EOLhyphen"/>tably lookt upon as an effect of his doteage, though he ſhould have ſaid as dangerous words, (as had I wiſht, comes to) be; this aged Gentlemen was driven on ſhipboard, the grave Matron his wife, and their dutifull chil<g ref="char:EOLhyphen"/>dren. (Having firſt made application (but in vain) to the inexorable High Sheriff) followed him with their affectionate teares, and heart-breaking groans, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> far as <hi>Plymouth,</hi> but could never ſee him, ſo much as to take leave of him but ſent to him on ſhip-board, to let him know, that they were come thither to mourn with him at parting; but off from the ſhip-board, he might not paſs, to ſalute his wife, and bleſs his children, though it had been to have ſaved his ſoul; and to him, he forbad them to come, upon his love and bleſſing, for fear they ſhould make him yet more miſerable, in being ſnatcht away with him: thus was this ancient Gentleman thrown out of the Converſible world at beſt, (if not
+<pb n="15" facs="tcp:170436:8"/>
+really into his grave,) then all the voyage, be<g ref="char:EOLhyphen"/>moaning himſelf, (to the great grief of all the reſt,) as a miſerable man, to be ſtolne away from his aged wife, of whoſe conſtant affections he had ſcores of years experience, and who he feared would now break her heart for grief, and never be able to ſee her own home again. In this high agony of love, and grief, and fear, and danger, above all he was troubled, that he ſhould goe out of the world, leaving his poor Countrey, in this ſlaviſh condition, which he had ſo many years heretofore ſeen noble and free. Now Sir, if this be the liberty and privi<g ref="char:EOLhyphen"/>ledge of the ſubject, ſo long promiſed us, the people of <hi>England</hi> are in but a ſad condition. And if there be no redemption of us, already ſo enſlaved by a tyrannicall force, for whoſe ſer<g ref="char:EOLhyphen"/>vice our maſters have nothing under our hands to ſhew, nor have we any thing under their hands to ſhew, whether ever or never the tearm of our ſlavery ſhall end. Sir, I know it cannot but grieve your righteous ſoul, to hear of theſe afflictions of your Brethren, if this be not re<g ref="char:EOLhyphen"/>dreſſed, you know not how ſoon, the Citizens and Commons of <hi>London,</hi> whoſe Repreſentative you are, may likewiſe be carried into the like ſad captivity; to prevent which, methinks, ſince Petitions are voted the peoples priviledge, they ſhould petition to the Parliament, (if not for our freedome, yet for themſelves, that there may an Act paſſe to ſecure them, and all
+<pb n="16" facs="tcp:170436:9"/>
+the free people of <hi>England,</hi> from this violent ſpiriting, leaſt they alſo upon theſe miſerable tearms, ſhould be brought into this place of torment. Sir, I ſhall pray, that God will bleſſe you, and all the great Aſſembly, in the preſer<g ref="char:EOLhyphen"/>vation of <hi>Englands</hi> Freedome, and reſt,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your moſt obliged and faithfull Servant.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="17" facs="tcp:170436:9"/>
+            <head>The Copy of a third Letter, written to ano<g ref="char:EOLhyphen"/>ther member of Parliament.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>THe great Report of your publick ſpirit, and high aſſerting of the enſlaved people of <hi>Englands</hi> freedome gives me this confi<g ref="char:EOLhyphen"/>dence, to bemoan to you in particular, and to the great counſell of the whole nation in gene<g ref="char:EOLhyphen"/>rall, the miſery of my own, (and of the many o<g ref="char:EOLhyphen"/>ther ſlaves at <hi>Barbados)</hi> ſad and to be pitied fate, for though we have never forfeited our ſelves to the Law, by any guilt, yet, notwith<g ref="char:EOLhyphen"/>ſtanding our innocency, by a ſtrange myſteri<g ref="char:EOLhyphen"/>ous riddle, a bluſtering power, furious as a ſtor<g ref="char:EOLhyphen"/>my Harricane, blowing from all the points of the compaſſe, (but fixed in none) are we hurri<g ref="char:EOLhyphen"/>ed to the heatheniſh <hi>Indies,</hi> and are ſold in the publick market, as beaſts, and become to all in<g ref="char:EOLhyphen"/>tents and purpoſes, like thoſe our fellow-crea<g ref="char:EOLhyphen"/>tures that have no underſtanding, being bought and ſold ſtill, from maſter to maſter, or attacht as their goods, by the proceſſe of their cruell creditours, ſo that he that hath a good maſter too day (for ſome ſuch there are) may have a tyrant too morrow, that ſhall whip him at the whipping-poſt, as a revenge on his baffling debtour. Oh Sir, did this glorious nation, whoſe complacent and tender (mixt with a
+<pb n="18" facs="tcp:170436:10"/>
+couragious) diſpoſition, was wont to make them appear lovely, to all the nations of the world, ever think that this would have been <hi>the</hi> Engliſh <hi>Tranſlation,</hi> of thoſe <hi>Latine</hi> words, which are as a Proclaimation throughout the earth, being ſo eminently written in capitall Letters of gold. Over the place of the diſplaced ſtatue of the late King <hi>Charls,</hi> upon the Royall Ex<g ref="char:EOLhyphen"/>change, <hi>London,</hi> (the intelligible center of Chri<g ref="char:EOLhyphen"/>ſtendome,)</p>
+            <p>
+               <hi>Anno primo, libertatis Angliae reſtitutae.</hi> 1648.</p>
+            <p>Sir, had theſe men-ſtealers committed this hor<g ref="char:EOLhyphen"/>rid violence, before that publication of liberty, we might have had ſomewhat leſs cauſe to won<g ref="char:EOLhyphen"/>der at their felony (though cauſe enough,) being a thing unknown before in any part of the world, and which the Low-Countreys, <hi>Holland,</hi> and other free nations will not yet believe, though we ſhould ſwear it unto them. Sir, I be<g ref="char:EOLhyphen"/>ſeech you therefore to be inſtrumentall to<g ref="char:EOLhyphen"/>wards the obtaining of a Committee (or ſome other Court) impowred for the hearing of the poor ſlaves, (whoſe Petition is already in your houſe) that ſo your ſervant, (for that title I would fain exchange for ſlave) may make all the points of their Petition appear true, by the teſtimony of able perſons, upon their oaths, to which purpoſe your Petitioner deſires the Par<g ref="char:EOLhyphen"/>liaments protection of his perſon, which ob<g ref="char:EOLhyphen"/>tained, he ſhall be able to make good both in
+<pb n="19" facs="tcp:170436:10"/>
+ſubſtance and circumſtances the ſaddeſt relati<g ref="char:EOLhyphen"/>on of the moſt unparallel'd breach upon <hi>En<g ref="char:EOLhyphen"/>glands</hi> freedome, that was yet ever committed ſince the Creation, and from which flaviſh con<g ref="char:EOLhyphen"/>dition I do earneſtly beg, that you would uſe all your powers, (in a Parliamentary way) to redeem us, and to reſtore us once again, to our priſtine condition of being men, and then ſhall I be able more properly to ſubſcribe my ſelf, (which now being not my own) I do preſum<g ref="char:EOLhyphen"/>ptuouſly,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your moſt humble Servant.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="20" facs="tcp:170436:11"/>
+            <head>The Copy of a fourth Letter, written to ano<g ref="char:EOLhyphen"/>ther Member of Parliament.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Beſeech you accept of my thanks, for your charitable and cheerfull delivering of the Slaves Petition to the grand Committee of Grievances, which, I hear was not onely diſcuſ<g ref="char:EOLhyphen"/>ſed before them; but the next day ſolemnly debated in the Houſe: Sir in this your gallant aſſerting of the Freedome of your Native Countrey, you have ſhown a <hi>Moſaicall</hi> courage, that dare do ſo much towards the relieving of the oppreſſed <hi>English,</hi> from their (more then <hi>Egy<g ref="char:EOLhyphen"/>ptian)</hi> Taskmaſters. Sir you cannot but know (I believe,) the truth of that part of the Petiti<g ref="char:EOLhyphen"/>on which concerns the <hi>Ignoramus</hi> returned upon my <hi>Indictment</hi> the acquitment of <hi>Nicholas Broad<g ref="char:EOLhyphen"/>gate</hi> by the Iury of life and death, and the Inno<g ref="char:EOLhyphen"/>cency of all the reſt of your Petitioners that were ſent from <hi>Exeter:</hi> (for although Eight of the there condemned perſons, were ſent and ſold with us, yet we have not intermix'd them within our Petition; referring that to ſome other way of their own, or friends, (as time &amp; opportunity ſhall permit.) Sir I believe alſo you have often heard from the ſad and charita<g ref="char:EOLhyphen"/>ble Citizens of <hi>Exon,</hi> the Tragicall hiſtory of our being barbarouſly driven thence, into the Land of our Captivity, with much like vio<g ref="char:EOLhyphen"/>lence, I believe, as the Heard of ſwine were dri<g ref="char:EOLhyphen"/>ven
+<pb n="21" facs="tcp:170436:11"/>
+into the ſea, and they needs muſt goe that are ſo driven; when two foot ſouldiers and one horſe-man, all armed, were allotted to the guard of every two (intended) Slaves, the horſe-man riding between every Couple, and on each ſide of the paired Priſoners, a foot ſouldier guar<g ref="char:EOLhyphen"/>dant, beating ſome that came to pity us; and the Power impriſoning one for wiſhing, <hi>God bleſſe us,</hi> thus they hurried us through the City<hi>:</hi> Being upon the Forlorn march, which conti<g ref="char:EOLhyphen"/>nued three dayes; thoſe few of us, which were allowed beds by the way, had a Guard of armed ſouldiers all night in the Room to guard us in our ſleeps, leaſt we might make an eſcape in our dreams: and we were not ſuffered to write back this ſad kind of uſage, to our friends at <hi>Exon,</hi> leaſt it ſhould appear too harſh a truth: the breathleſſe priſoners having been ſtifled up, for a whole year, more then three<g ref="char:EOLhyphen"/>ſcore, lying in a room all that while in ſtraw to<g ref="char:EOLhyphen"/>gether, were not able to march ſo luſtily, as their high fed and furious drivers expected, yet being ſurbated and almoſt dead, through ſore<g ref="char:EOLhyphen"/>noſſe of travelling, and fainting down through wearineſſe, were thence cudgell'd up again, by theſe unchriſtian Janiſaries, more cruelly, then a mercifull man would have beaten his ruſty jade. Thus began our miſery, and ſo we were brought on ſhip-board, where it continued, for we were all put under deck together, and lockt down. On the ſame deck was a bulk-head
+<pb n="22" facs="tcp:170436:12"/>
+(ſo called) or a partition boarded, we being kept on one ſide, and a main Guard of ſeamen on the other ſide of that bulk-head, through which were port-holes made, and through them great guns, laden with caſe-ſhot, levell'd againſt us, that ſo, if there ſhould have been any rebel<g ref="char:EOLhyphen"/>lion under that tyranny (which any one or two rude fellows, againſt the conſent of the reſt, might ſeem to begin, if they had pleaſed, then might the Guard and Gunners more eaſily de<g ref="char:EOLhyphen"/>ſtroy us, which happily vpon a jealouſy (which was once amongſt them,) they would have done, had not our provident and covetous ow<g ref="char:EOLhyphen"/>ners (thoſe merchants of <hi>Babylon,</hi> (taken care to bring us to a more profitable market, to ſecure which Vice Admiral <hi>Hatſell</hi> offered the Mr. of our ſhip, a ſtates man of war for his Convoy. In this voyage, ſo great oppreſſion was laid upon us by our inviſible Owners, that whereas every vitious ſervant which <hi>Bridewell</hi> and <hi>Newgate</hi> had vomited into that ſhip, had an <hi>Hamaka</hi> to ſleep in, and keep him from the vermin, which amongſt ſuch a crew muſt inevitably ſwarme all the voyage, untill the Extremity of heat (under the <hi>Tropick)</hi> deſtroy them, we were for<g ref="char:EOLhyphen"/>ced to ly on the bare hard boards, they refu<g ref="char:EOLhyphen"/>ſing to let us to have ſo much as mattes to eaſe our weary bones; though their Factour mo<g ref="char:EOLhyphen"/>ved them, (or one of them) to allow it, and he would have disburſed the money. Being arri<g ref="char:EOLhyphen"/>ved at <hi>Barbados,</hi> we were there ſold as Beaſts,
+<pb n="23" facs="tcp:170436:12"/>
+and made otherwayes miſerable, beyond the power of my tongue or pen to expreſſe: From this bruitiſh condition, Sir, if you pleaſe to ſet too your helping hand to free us, and look<g ref="char:EOLhyphen"/>ing upon us, as Beaſts fallen into a ditch, will uſe your endeavour to help us out, 'tis ſuch a piece of charity, as will be acceptable to God, and all good men. So the reward of the merci<g ref="char:EOLhyphen"/>full attend you, for they ſhall receive mercy, I reſt,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your moſt gratefull and hum<g ref="char:EOLhyphen"/>ble Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
